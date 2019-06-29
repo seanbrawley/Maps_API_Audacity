@@ -23,7 +23,7 @@ API Course, Lesson 1 -->
    <!--TODO: Load the JS API ASYNCHRONOUSLY below.-->
    
    <script async defer
-     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCyppJzZlYqJmCf3TTuZ8npaSqFjs1C7xg&v=1&callback=initMap">
+     src="https://maps.googleapis.com/maps/api/js?key=___?___&v=1&callback=initMap">
     
    </script>
  </body>
